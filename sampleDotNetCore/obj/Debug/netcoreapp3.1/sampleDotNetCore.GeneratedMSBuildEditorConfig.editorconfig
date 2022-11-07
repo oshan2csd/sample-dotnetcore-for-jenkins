@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = sampleDotNetCore
+build_property.ProjectDir = C:\Users\osilva\source\repos\ci-cd\sample-dotnetcore-for-jenkins\sampleDotNetCore\

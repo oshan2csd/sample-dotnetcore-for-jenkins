@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "llSKnez2jZ4P5I5AHQO5B6WaAauXYH4gikIeyRlWIb/6gFLcXU74ve2K9e5+Vmau88ayypzIFPls0sCaS7qbFA==",
+  "dgSpecHash": "FlP+RQClO8Y631RJc/qfxnjZB1Jg5VuEMmXqQ2qDUSBU+XtuEAEOpkPOz5do8R/ogWiZ5nX4s1QBgu/3oSH1kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fauzi_s\\source\\repos\\sampleDotNetCore\\sampleDotNetCore\\sampleDotNetCore.csproj",
+  "projectFilePath": "C:\\Users\\osilva\\source\\repos\\ci-cd\\sample-dotnetcore-for-jenkins\\sampleDotNetCore\\sampleDotNetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
